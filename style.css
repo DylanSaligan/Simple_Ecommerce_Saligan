@@ -24,3 +24,8 @@ ul {
   ul li a:hover {
     background-color: #111111;
   }
+.hero {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
