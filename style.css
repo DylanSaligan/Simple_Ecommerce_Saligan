@@ -29,3 +29,14 @@ ul {
     text-align: center;
     padding: 10px;
 }
+.product-card {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    border: #111111;
+    border-style: solid;
+    background-color: aquamarine;
+    text-align: center;
+  }
+
+  
